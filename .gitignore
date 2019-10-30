@@ -1,0 +1,83 @@
+# Compiled source #
+###################
+target/
+bin/
+*.class
+.m2/
+.sonar/
+out/
+
+# Packages #
+############
+MANIFEST.MF
+*.jar
+*.war
+*.ear
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Maven Release #
+#################
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+pom.xml.next
+
+# IDE Config #
+##############
+.classpath
+.project
+.metadata
+.settings/
+*.iml
+*.ipr
+*.iws
+.idea/
+.pmd
+.checkstyle
+
+# Jmeter Rapport
+*.jtl
+**/rapport_html_jmeter
+
+# TestNG #
+##########
+testng.xml
+test-output/
+
+# Log #
+#######
+*.log
+
+# Simulator #
+#############
+*.shm
+cache/
+
+log/
+logContent/
+
+# OS generated files #
+######################*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+Icon?
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+$RECYCLE.BIN/
+
+# Keep .gitkeep files #
+#######################
+!.gitkeep
+/Servers
+
+dependency-reduced-pom.xml
