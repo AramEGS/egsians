@@ -34,7 +34,7 @@
         <commons.lang3.version>3.9</commons.lang3.version>
         <commons.collections.version>4.3</commons.collections.version>
         <commons.text.version>1.8</commons.text.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <ehcache.version>3.8.1</ehcache.version>
     </properties>
 
