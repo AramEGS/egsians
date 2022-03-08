@@ -28,7 +28,7 @@
         <swagger.version>2.9.2</swagger.version>
         <lombok.version>1.18.10</lombok.version>
         <postgresql.version>42.2.8</postgresql.version>
-        <liquibase.version>3.8.0</liquibase.version>
+        <liquibase.version>4.8.0</liquibase.version>
         <hibernate.types.version>2.7.0</hibernate.types.version>
         <orika.version>1.5.4</orika.version>
         <commons.lang3.version>3.9</commons.lang3.version>
